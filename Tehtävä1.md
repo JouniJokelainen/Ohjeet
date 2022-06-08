@@ -9,5 +9,5 @@
 * Kuvaa vastausiedoston luomista yleisellä tasolla. Halutessasi voit kirjata mukaan myös asetukset esim. kuvaruutukaappauksin tai muulla tavalla.
 * Miten vastaustiedostoa käyttö yhdessä *sysprep* ohjelman kanssa (vastaustiedoston sijainti valmisteltavassa työasemassa ja *sysprep* ohjelman parametrit.   
 
-<img src="wsim.jpg" alt="drawing" style="width:700px;"/>
+<img src="wsim.png" alt="drawing" style="width:700px;"/>
 
