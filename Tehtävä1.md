@@ -8,3 +8,5 @@
 * *Sysprep* ohjelman käyttö (graafisen työkalun ja/tai komentokehotteen kautta)
 * Vastausiedoston luomisesta yleisellä tasolla. Halutessasi voit kirjata mukaan myös asetukset esim. kuvaruutukaappauksin tai muulla tavalla.
 * Mahdollinen vastaustiedoston käyttö yhdessä *sysprep* ohjelman kanssa   
+
+![WSIM](wsim.jpg)
