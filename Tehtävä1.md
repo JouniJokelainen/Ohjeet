@@ -13,3 +13,4 @@
 
 <img src="wsim.png" alt="drawing" style="width:700px;"/>
 
+![WSIM editori](wsim.png)
