@@ -5,7 +5,7 @@
 - [x] Kirjaa ohjeeseesi ainaki seuraavat asiat: 
 * Miten päääset asennuksen aikana *Audit* tilaan
 * Miten mukauttaisit ympäristöä ennen *sysprep* ohjelman ajamista.
-* Mtien *Sysprep* ohjelmaa käytetään graafisen työkalun ja/tai komentokehotteen kautta
+* Miten *Sysprep* ohjelmaa käytetään graafisen työkalun ja/tai komentokehotteen kautta
 * Kuvaa vastausiedoston luomista yleisellä tasolla. Halutessasi voit kirjata mukaan myös asetukset esim. kuvaruutukaappauksin tai muulla tavalla.
 * Miten vastaustiedostoa käyttö yhdessä *sysprep* ohjelman kanssa (vastaustiedoston sijainti valmisteltavassa työasemassa ja *sysprep* ohjelman parametrit.   
 
