@@ -1,4 +1,4 @@
-# Työaseman asennuksen automatisointi | *Mardown* muotoiset ohjeet
+# Työaseman asennuksen automatisointi | *Markdown* muotoiset ohjeet
 
 - [x] Tee itsellesi *Markdown* muotoinen ohje Windows työaseman asentamisesta siten että siitä voidaan ottaa levykuva talteen esim. *VirtualBoxin* export/vie toiminnon avulla.  
 - [x] Kirjoita ohjeeseen käyttöönoton kaikki vaiheet siihen pisteeseen asti jossa työasema on valmis exportoitavaksi eli vietäväksi tiedostoon. Voit kirjata halutessasi ohjeeseen myös sen miten tämä toiminto tehdään VirtuaBox:a  
